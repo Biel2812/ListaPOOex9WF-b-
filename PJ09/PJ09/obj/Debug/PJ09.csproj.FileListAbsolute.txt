@@ -1,0 +1,6 @@
+C:\Users\aluno\Downloads\ListaPOOex9WF-main\ListaPOOex9WF-main\PJ09\PJ09\obj\Debug\PJ09.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\ListaPOOex9WF-main\ListaPOOex9WF-main\PJ09\PJ09\obj\Debug\PJ09.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\ListaPOOex9WF-main\ListaPOOex9WF-main\PJ09\PJ09\obj\Debug\PJ09.frmNumeros.resources
+C:\Users\aluno\Downloads\ListaPOOex9WF-main\ListaPOOex9WF-main\PJ09\PJ09\obj\Debug\PJ09.Properties.Resources.resources
+C:\Users\aluno\Downloads\ListaPOOex9WF-main\ListaPOOex9WF-main\PJ09\PJ09\obj\Debug\PJ09.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\ListaPOOex9WF-main\ListaPOOex9WF-main\PJ09\PJ09\obj\Debug\PJ09.csproj.CoreCompileInputs.cache
